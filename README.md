@@ -1,6 +1,6 @@
 #  ***Tiled Squeeze-and-Excite: Channel Attention With Local Spatial Context***
 
-First of all, thank the authors very much for sharing this excellent paper ***<Tiled Squeeze-and-Excite: Channel Attention With Local Spatial Context>*** with us. 
+First of all, thank the authors very much for sharing this excellent paper ***Tiled Squeeze-and-Excite: Channel Attention With Local Spatial Context*** with us. 
 Paper addr: https://arxiv.org/abs/2107.02145
 
 This repository contains unofficial implementation of TSE Attention and simple verification for modified VGG16
