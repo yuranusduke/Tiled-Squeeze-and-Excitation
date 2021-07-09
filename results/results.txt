@@ -1,0 +1,5 @@
+2021-07-08 15:34:39.371222 ::: [attn_ratio : 0.5, attn_method : tse_pre_attn_none] --> acc : 92.16%.
+2021-07-08 17:12:05.104624 ::: [attn_ratio : 0.5, attn_method : se_pre_attn_none] --> acc : 91.63%.
+2021-07-08 18:05:23.101567 ::: [attn_ratio : 0.5, attn_method : none_pre_attn_none] --> acc : 90.73%.
+2021-07-09 09:17:30.741822 ::: [attn_ratio : 0.5, attn_method : se_pre_attn_tse_to_se] --> acc : 80.31%.
+2021-07-09 09:18:07.072458 ::: [attn_ratio : 0.5, attn_method : tse_pre_attn_se_to_tse] --> acc : 70.04%.
